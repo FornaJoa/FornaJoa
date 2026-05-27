@@ -65,7 +65,7 @@ const joaquin = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Portfolio</h3>
+      <h3>🌐 <a href="https://joaquinfornasari.pages.dev/#">Portfolio</h3>
       <p><strong>Landing de servicios web</strong></p>
       <p>Sitio personal para ofrecer landings y páginas web a comercios de Río Cuarto. React + Vite, contacto por WhatsApp y formulario Web3Forms.</p>
       <p>
