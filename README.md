@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Desarrollo+web+para+negocios+locales;Estudiante+de+Software+%E2%80%94+ITEC;React+%C2%B7+Next.js+%C2%B7+TypeScript;R%C3%ADo+Cuarto%2C+C%C3%B3rdoba+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/FornaJoa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://joaquinfornasari.pages.dev/#)
 [![Cuotín](https://img.shields.io/badge/Cuot%C3%ADn-Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://cuotin.pages.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-fornasari-7734ab23b/)
 [![Email](https://img.shields.io/badge/Email-fornajoa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fornajoa@gmail.com)
