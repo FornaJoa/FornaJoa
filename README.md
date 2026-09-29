@@ -1,45 +1,73 @@
+div align="center">
 # Joaquín Fornasari
-Desarrollo web para negocios locales en **Río Cuarto, Córdoba**.
-Estudiante de **Desarrollo de Software** (ITEC, 2° año). Construyo productos que están online de verdad — no solo trabajos de entrega.
+**Estudiante de Desarrollo de Software · ITEC · Río Cuarto, Córdoba 🇦🇷**
+[![Portfolio](https://img.shields.io/badge/Portfolio-joaquinfornasari.pages.dev-0ea5e9?style=flat-square)](https://joaquinfornasari.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joaquín_Fornasari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-fornasari-7734ab23b/)
+[![Email](https://img.shields.io/badge/Email-fornajoa@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fornajoa@gmail.com)
+</div>
 ---
-### En corto
-Hago landings y sitios para comercios de la zona. También mantengo apps propias en producción. Antes de programar, llevé años con un emprendimiento de limpieza y mantenimiento de PC: ahí aprendí a escuchar al cliente, resolver sin vueltas y explicar las cosas en claro.
-Hoy aplico eso mismo cuando laburo con un local que necesita presencia web.
+### Sobre mí
+Estudiante de **2° año** en el ITEC. Me gusta construir cosas que llegan a producción: apps propias y sitios reales para negocios de la zona.
+Antes de programar, llevé un emprendimiento de limpieza y mantenimiento de PC. De ahí viene la costumbre de resolver problemas concretos y explicar las cosas sin vueltas.
 ```ts
 const joaquin = {
-  desde: "Río Cuarto, Córdoba 🇦🇷",
-  estudia: "Desarrollo de Software — ITEC",
-  stack: ["React", "Next.js", "TypeScript", "PostgreSQL", "Supabase"],
-  construye: "Software que se usa, no demos que se olvidan",
-  abiertoA: ["freelance", "colaboraciones", "comercios locales"],
+  location: "Río Cuarto, Córdoba",
+  studying: "Desarrollo de Software — ITEC",
+  stack: ["React", "TypeScript", "Next.js", "Supabase", "PostgreSQL"],
+  currently: ["Cuotín", "Moca & Home", "proyectos personales"],
 };
 ```
----
+
+[1 line collapsed]
+
 ### Proyectos
-**[Cuotín](https://cuotin.pages.dev)** — gestor de gastos en cuotas  
-App en producción para finanzas personales (Argentina / Latam). Cuotas de tarjeta, gastos fijos, resumen mensual, sync entre dispositivos, PWA offline y export CSV/JSON.  
-`React · TypeScript · Supabase · Cloudflare Pages`
-**[Sistema Turnos](https://github.com/FornaJoa/sistema_turnos)** — SaaS para barberías y peluquerías  
-Reservas online, paneles por rol, disponibilidad en tiempo real y multi-local. Demo en `/barberia-demo`.  
-`Next.js · PostgreSQL · Drizzle · Redis · Tailwind`
-**[Portfolio](https://joaquinfornasari.pages.dev)** — landing de servicios  
-Sitio personal para ofrecer páginas web a comercios de Río Cuarto. Contacto por WhatsApp y formulario.  
-`React · Vite · TypeScript`
-**Práctica ITEC (Java / JS)**  
-[Decodificador de Mensajes](https://github.com/FornaJoa/Decodificador-de-Mensajes) · [Sala de Emergencia](https://github.com/FornaJoa/Sala-de-Emergencia) · [javascript-itec](https://github.com/FornaJoa/javascript-itec)
----
-### Qué ofrezco a comercios
-| | |
-| --- | --- |
-| **Landing** | Página clara: servicios, horarios, ubicación y WhatsApp al frente |
-| **Sitio completo** | Varias secciones, galería, mapa, formulario, responsive |
-| **Mantenimiento** | Cambios, correcciones y soporte básico sin drama |
-Precios pensados para comercios chicos. Atención directa, sin agencia de por medio.
+<table>
+<tr>
+<td width="50%" valign="top">
+#### [Cuotín](https://cuotin.com.ar)
+Gestor de gastos personales en cuotas. PWA en producción con sync entre dispositivos, proyección a 12 meses, modo offline y export CSV/JSON.
+`React` `TypeScript` `Supabase` `Cloudflare`
+</td>
+<td width="50%" valign="top">
+#### [Moca & Home](https://mocahome.com.ar)
+Tienda online de tazas para el hogar. Catálogo, pedidos y entrega en Río Cuarto (retiro o cadete).
+`React` `TypeScript` `Supabase`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+#### [Portfolio](https://joaquinfornasari.pages.dev)
+Sitio personal con proyectos, skills y contacto. React + Vite.
+`React` `Vite` `TypeScript`
+</td>
+<td width="50%" valign="top">
+#### [Pulsar Pay](https://sistema-gimnasios-demo.pages.dev/ingreso)
+Demo de gestión de membresías para gimnasios: socios, cobranza, avisos y panel de admin.
+`React` `TypeScript` · *demo*
+</td>
+</tr>
+</table>
+<details>
+<summary>También en la facu</summary>
+- [Decodificador de Mensajes](https://github.com/FornaJoa/Decodificador-de-Mensajes) — Java
+- [Sala de Emergencia](https://github.com/FornaJoa/Sala-de-Emergencia) — Java
+- [javascript-itec](https://github.com/FornaJoa/javascript-itec) — JS
+</details>
 ---
 ### Stack
-React · Next.js · TypeScript · PostgreSQL · Supabase · Tailwind · Cloudflare · Docker · Python · Java · Git
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
 ---
-### Conectemos
-[Portfolio](https://joaquinfornasari.pages.dev) · [Cuotín](https://cuotin.pages.dev) · [LinkedIn](https://www.linkedin.com/in/joaquin-fornasari-7734ab23b/) · [Email](mailto:fornajoa@gmail.com) · [WhatsApp](https://wa.me/5492995907222?text=Hola%20Joaquin%2C%20te%20escribo%20desde%20GitHub)
----
-*Construyo software que resuelve problemas reales — empezando por los de acá.*
+<div align="center">
+[Portfolio](https://joaquinfornasari.pages.dev) · [Cuotín](https://cuotin.com.ar) · [Moca & Home](https://mocahome.com.ar) · [GitHub](https://github.com/FornaJoa) · [LinkedIn](https://www.linkedin.com/in/joaquin-fornasari-7734ab23b/)
+<br/>
+*"Construyo software que se usa de verdad."*
+</div>
